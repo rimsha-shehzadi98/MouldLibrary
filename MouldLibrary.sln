@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MouldLibrary", "MouldLibrary\MouldLibrary.csproj", "{A8BA29B7-F1A8-49B2-B072-B8898104E5B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MouldConsoleApp", "MouldConsoleApp\MouldConsoleApp.csproj", "{805EE203-6B3A-49F5-8D83-645F9D8C0E4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8BA29B7-F1A8-49B2-B072-B8898104E5B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8BA29B7-F1A8-49B2-B072-B8898104E5B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8BA29B7-F1A8-49B2-B072-B8898104E5B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8BA29B7-F1A8-49B2-B072-B8898104E5B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{805EE203-6B3A-49F5-8D83-645F9D8C0E4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{805EE203-6B3A-49F5-8D83-645F9D8C0E4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{805EE203-6B3A-49F5-8D83-645F9D8C0E4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{805EE203-6B3A-49F5-8D83-645F9D8C0E4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4D937E9-5A63-4EA4-A394-D7328D3DE16D}
+	EndGlobalSection
+EndGlobal
